@@ -8,7 +8,6 @@ public class Portal {
 	
 	public Portal(GatePortals inst){
 		this.instance = inst;
-		//test
 	}
 	
 	public void create(Location l){
